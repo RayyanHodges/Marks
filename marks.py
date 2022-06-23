@@ -18,7 +18,7 @@ while active == False:
     else:
         active = True
         
-#create array/list with five marks (changed to remove interger from list, as it was not needed)
+#create array/list with five marks
 marksList = [mark1, mark2, mark3, mark4, mark5]
 
 #print the array/list (simply added an asterisk before marksList to create a mathematical expression)
